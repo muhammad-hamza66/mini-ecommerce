@@ -2,25 +2,25 @@
 const products = [
     { 
         id: 1, 
-        name: "Wireless Earbuds Pro", 
+        name: "Makeup", 
         price: 129.99, 
         image: "assets/product1.jpeg" 
     },
     { 
         id: 2, 
-        name: "Smart Fitness Watch", 
+        name: "lipstick", 
         price: 199.99, 
         image: "assets/product2.jpeg" 
     },
     { 
         id: 3, 
-        name: "Bluetooth Speaker", 
+        name: "face cream or body cream", 
         price: 89.99, 
         image: "assets/product3.jpeg" 
     },
     { 
         id: 4, 
-        name: "Premium Backpack", 
+        name: "Cream Lotion Bottle", 
         price: 79.99, 
         image: "assets/product4.jpeg" 
     }
